@@ -32,7 +32,7 @@ Pre-requisites:
 - A compiler for C++ is already installed, this repo uses `clang` 14.0.3
 - CMake is already installed, this repo uses version 3.27.6
 
-## Setup (downloading this repo)
+# Setup (downloading this repo)
 
 1. Start with a clean directory, say `../cpp`.
 
@@ -49,7 +49,7 @@ git clone https://github.com/google/googletest.git
 
 **The setup is now done.** ✨
 
-### Test the setup 
+## Test the setup 
 
 - To build, run from terminal (`cd` to main folder):
 ```terminal
@@ -89,7 +89,13 @@ which outputs:
 Add: 8
 ```
 
-## Setup - alternative version (from scratch)
+<br>
+
+------
+
+<br>
+
+# Setup - alternative version (from scratch)
 
 1. Start with a clean directory, say `../cpp`.
 
@@ -199,7 +205,7 @@ gtest_discover_tests(MyProjectTests)
 
 **The setup is now done.** ✨
 
-### Test the setup
+## Test the setup
 
 - Create two files inside `src`: `SimpleFile.h`, `SimpleFile.cpp`.
 ```cpp
