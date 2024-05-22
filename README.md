@@ -32,6 +32,8 @@ Pre-requisites:
 - A compiler for C++ is already installed, this repo uses `clang` 14.0.3
 - CMake is already installed, this repo uses version 3.27.6
 
+<br>
+
 # Setup (downloading this repo)
 
 1. Start with a clean directory, say `../cpp`.
